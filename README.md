@@ -1,4 +1,4 @@
-# Submission 1: ML-Pipeline-News-Detectionwith-Vectorization-Embedding-and-Bidirectional-LSTM-Method
+# Submission 1: ML-Pipeline-News-Detection-with-Vectorization-Embedding-and-Bidirectional-LSTM-Method
 
 Nama: Putra Andika Pradana
 
